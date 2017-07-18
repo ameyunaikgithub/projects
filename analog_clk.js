@@ -6,10 +6,10 @@ var clock_face = null,
 	ctx = null,
 	degrees = 0;
 
-var HEIGHT = 300;
-var WIDTH = 300;
-var HALF_HEIGHT = HEIGHT / 4;
-var HALF_WIDTH = WIDTH / 4;
+var HEIGHT = 500;
+var WIDTH = 500;
+var HALF_HEIGHT = HEIGHT / 2;
+var HALF_WIDTH = WIDTH / 2;
 var FPS = 15;
 
 var CIRCLE_TO_HOUR_RATIO = 360 / 12;
