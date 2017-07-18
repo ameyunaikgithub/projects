@@ -8,8 +8,8 @@ var clock_face = null,
 
 var HEIGHT = 300;
 var WIDTH = 300;
-var HALF_HEIGHT = HEIGHT / 2;
-var HALF_WIDTH = WIDTH / 2;
+var HALF_HEIGHT = HEIGHT / 4;
+var HALF_WIDTH = WIDTH / 4;
 var FPS = 15;
 
 var CIRCLE_TO_HOUR_RATIO = 360 / 12;
