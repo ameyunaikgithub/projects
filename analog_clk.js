@@ -6,8 +6,8 @@ var clock_face = null,
     ctx = null,
     degrees = 0;
 
-var HEIGHT = 550;
-var WIDTH = 550;
+var HEIGHT = 500;
+var WIDTH = 500;
 var HALF_HEIGHT = HEIGHT / 2;
 var HALF_WIDTH = WIDTH / 2;
 var FPS = 15;
